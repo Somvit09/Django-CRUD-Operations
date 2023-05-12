@@ -87,6 +87,8 @@ The API provides the following CRUD functionality for managing nudges:
   Endpoint: /api/nudge/{nudge_id}
   Method: DELETE
   Description: Delete a nudge by providing the nudge ID.
+  
+  
 Please note that the {nudge_id} in the endpoints should be replaced with the actual ID of the nudge you want to interact with.
 Ensure that the necessary authentication and authorization mechanisms are implemented to secure the API endpoints and restrict access to authorized users only.
 
